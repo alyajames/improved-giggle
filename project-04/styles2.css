@@ -23,7 +23,7 @@ body{
 h1{
     font-family: 'Lemonada', cursive;
     font-weight: 600;
-    font-size: 35px;
+    font-size: 2.3em;
     position: relative;
     text-align: center;
     color: #e54b4b;
@@ -1272,7 +1272,7 @@ h1{
         outline: none;
         font-family: 'Lemonada', cursive;
         font-weight: 600;
-        font-size: 25px;
+        font-size: 1.6em;
     }
 
 #nexthat:hover{
@@ -1306,7 +1306,7 @@ h1{
     outline: none;
     font-family: 'Lemonada', cursive;
     font-weight: 600;
-    font-size: 25px;
+    font-size: 1.6em;
 }
 
 #nextoutfit:hover {
@@ -1340,7 +1340,7 @@ h1{
     outline: none;
     font-family: 'Lemonada', cursive;
     font-weight: 600;
-    font-size: 25px;
+    font-size: 1.6em;
 }
 
 #nextaccessory:hover {
@@ -1374,7 +1374,7 @@ h1{
     outline: none;
     font-family: 'Lemonada', cursive;
     font-weight: 600;
-    font-size: 25px;
+    font-size: 1.6em;
 }
 
 #nextshoe:hover {
@@ -1396,4 +1396,10 @@ h1{
     color: #e54b4b;
     text-decoration: line-through;
     outline: none;
+}
+
+@media screen and (min-width: 640px){
+    .flexcontainer {
+        display: flex;
+    }
 }

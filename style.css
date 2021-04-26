@@ -1,0 +1,62 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Martel+Sans:wght@600;700;800;900&display=swap');
+
+
+body{
+    background-color: #ffefe5;
+}
+
+.container {
+	width: 50%;
+	margin: 70px;
+}
+
+.body {
+	width: 90%;
+	margin-left: 40px;
+}
+
+h2{
+    font-family: 'martel-sans', sans-serif;
+    font-weight: 900;
+    font-size: 2.3em;
+    color: #fedccc;
+    letter-spacing: 3px;
+}
+
+h3{
+    font-family: 'martel-sans', sans-serif;
+    font-weight: 900;
+    font-size: 1em;
+    color: #e75152;
+    letter-spacing: 2px;
+}
+
+ul{
+    font-family: 'martel-sans', sans-serif;
+    font-weight: 900;
+    font-size: 0.9em;
+    color: #20ad65;
+    letter-spacing: 2px;
+}
+
+button{
+    font-family: 'martel-sans', sans-serif;
+    font-weight: 900;
+    font-size: 0.9em;
+    color: #20ad65;
+    letter-spacing: 2px;
+    background-color: transparent;
+    border: none;
+    outline: none;
+}
+
+button:hover{
+    font-size: 1.2em;
+    outline: none;
+}
+
+button:active{
+    outline: none;
+    text-decoration: line-through;
+}
