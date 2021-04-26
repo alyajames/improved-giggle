@@ -1,0 +1,1399 @@
+@import url('https://fonts.googleapis.com/css2?family=Lemonada:wght@400;500;600&display=swap');
+
+body{
+    background-color: #efe8d8;
+}
+
+#wrap {
+    position: absolute;
+    margin:auto;
+    width: 1200px;
+    height: 1064px;
+}
+
+#container {
+    position:absolute;
+    margin: auto;
+    width: 908px;
+    height: 1064px;
+    background-color: #efe8d8;
+}
+
+
+h1{
+    font-family: 'Lemonada', cursive;
+    font-weight: 600;
+    font-size: 35px;
+    position: relative;
+    text-align: center;
+    color: #e54b4b;
+}
+
+#background {
+    position: absolute;
+    width: 508px;
+    height: 864px;
+    left: 200px;
+    right: 200px;
+    background-color: #ff8b8b;
+    border-width: 200px;
+    border-color: #efe8d8;
+}
+
+#man {
+    position:absolute;
+    width: 508px;
+    height: 864px;
+    left: 200px;
+    right: 200px;
+    background-image: url(img/doll.png);
+}
+
+#hat {
+    position:absolute;
+    width: 508px;
+    height: 864px;
+    left: 200px;
+    right: 200px;
+}
+
+    .hat1{
+        position:absolute;
+        width: 508px;
+        height: 864px;
+        left: 200px;
+        right: 200px;
+        background-image: url(img/04-hair&hats/1-hat.png);
+        z-index: 1;
+    }
+
+    .hat2{
+        position:absolute;
+        width: 508px;
+        height: 864px;
+        left: 200px;
+        right: 200px;
+        background-image: url(img/04-hair&hats/2-hat.png);
+        z-index: 1;
+    }
+
+    .hat3{
+        position:absolute;
+        width: 508px;
+        height: 864px;
+        left: 200px;
+        right: 200px;
+        background-image: url(img/04-hair&hats/3-hat.png);
+        z-index: 1;
+    }
+
+    .hat4{
+        position:absolute;
+        width: 508px;
+        height: 864px;
+        left: 200px;
+        right: 200px;
+        background-image: url(img/04-hair&hats/4-hat.png);
+        z-index: 1;
+    }
+
+    .hat5{
+        position:absolute;
+        width: 508px;
+        height: 864px;
+        left: 200px;
+        right: 200px;
+        background-image: url(img/04-hair&hats/5-hat.png);
+        z-index: 1;
+    }
+
+    .hat6{
+        position:absolute;
+        width: 508px;
+        height: 864px;
+        left: 200px;
+        right: 200px;
+        background-image: url(img/04-hair&hats/6-hat.png);
+        z-index: 1;
+    }
+
+    .hat7{
+        position:absolute;
+        width: 508px;
+        height: 864px;
+        left: 200px;
+        right: 200px;
+        background-image: url(img/04-hair&hats/7-hat.png);
+        z-index: 1;
+    }
+
+    .hat8{
+        position:absolute;
+        width: 508px;
+        height: 864px;
+        left: 200px;
+        right: 200px;
+        background-image: url(img/04-hair&hats/8-hat.png);
+        z-index: 1;
+    }
+
+    .hat9{
+        position:absolute;
+        width: 508px;
+        height: 864px;
+        left: 200px;
+        right: 200px;
+        background-image: url(img/04-hair&hats/9-hat.png);
+        z-index: 1;
+    }
+
+    .hat10{
+        position:absolute;
+        width: 508px;
+        height: 864px;
+        left: 200px;
+        right: 200px;
+        background-image: url(img/04-hair&hats/10-hat.png);
+        z-index: 1;
+    }
+
+    .hat11{
+        position:absolute;
+        width: 508px;
+        height: 864px;
+        left: 200px;
+        right: 200px;
+        background-image: url(img/04-hair&hats/11-hat.png);
+        z-index: 1;
+    }
+
+    .hat12{
+        position:absolute;
+        width: 508px;
+        height: 864px;
+        left: 200px;
+        right: 200px;
+        background-image: url(img/04-hair&hats/12-hat.png);
+        z-index: 1;
+    }
+
+    .hat13{
+        position:absolute;
+        width: 508px;
+        height: 864px;
+        left: 200px;
+        right: 200px;
+        background-image: url(img/04-hair&hats/13-hat.png);
+        z-index: 1;
+    }
+
+    .hat14{
+        position:absolute;
+        width: 508px;
+        height: 864px;
+        left: 200px;
+        right: 200px;
+        background-image: url(img/04-hair&hats/14-hat.png);
+        z-index: 1;
+    }
+
+    .hat15{
+        position:absolute;
+        width: 508px;
+        height: 864px;
+        left: 200px;
+        right: 200px;
+        background-image: url(img/04-hair&hats/15-hat.png);
+        z-index: 1;
+    }
+
+    .hat16{
+        position:absolute;
+        width: 508px;
+        height: 864px;
+        left: 200px;
+        right: 200px;
+        background-image: url(img/04-hair&hats/16-hat.png);
+        z-index: 1;
+    }
+
+
+#outfit {
+    position:absolute;
+    width: 508px;
+    height: 864px;
+    left: 200px;
+    right: 200px;
+}
+
+    .outfit1{
+        position:absolute;
+        width: 508px;
+        height: 864px;
+        left: 200px;
+        right: 200px;
+        background-image: url(img/01-outfits/01-outfit.png);
+        z-index: 2;
+    }
+
+    .outfit2{
+        position:absolute;
+        width: 508px;
+        height: 864px;
+        left: 200px;
+        right: 200px;
+        background-image: url(img/01-outfits/02-outfit.png);
+        z-index: 2;
+    }
+
+    .outfit3{
+        position:absolute;
+        width: 508px;
+        height: 864px;
+        left: 200px;
+        right: 200px;
+        background-image: url(img/01-outfits/03-outfit.png);
+        z-index: 2;
+    }
+
+    .outfit4{
+        position:absolute;
+        width: 508px;
+        height: 864px;
+        left: 200px;
+        right: 200px;
+        background-image: url(img/01-outfits/04-outfit.png);
+        z-index: 2;
+    }
+
+    .outfit5{
+        position:absolute;
+        width: 508px;
+        height: 864px;
+        left: 200px;
+        right: 200px;
+        background-image: url(img/01-outfits/05-outfit.png);
+        z-index: 2;
+    }
+
+    .outfit6{
+        position:absolute;
+        width: 508px;
+        height: 864px;
+        left: 200px;
+        right: 200px;
+        background-image: url(img/01-outfits/06-outfit.png);
+        z-index: 2;
+    }
+
+    .outfit7{
+        position:absolute;
+        width: 508px;
+        height: 864px;
+        left: 200px;
+        right: 200px;
+        background-image: url(img/01-outfits/07-outfit.png);
+        z-index: 2;
+    }
+
+    .outfit8{
+        position:absolute;
+        width: 508px;
+        height: 864px;
+        left: 200px;
+        right: 200px;
+        background-image: url(img/01-outfits/08-outfit.png);
+        z-index: 2;
+    }
+
+    .outfit9{
+        position:absolute;
+        width: 508px;
+        height: 864px;
+        left: 200px;
+        right: 200px;
+        background-image: url(img/01-outfits/09-outfit.png);
+        z-index: 2;
+    }
+
+    .outfit10{
+        position:absolute;
+        width: 508px;
+        height: 864px;
+        left: 200px;
+        right: 200px;
+        background-image: url(img/01-outfits/10-outfit.png);
+        z-index: 2;
+    }
+
+    .outfit11{
+        position:absolute;
+        width: 508px;
+        height: 864px;
+        left: 200px;
+        right: 200px;
+        background-image: url(img/01-outfits/11-outfit.png);
+        z-index: 2;
+    }
+
+    .outfit12{
+        position:absolute;
+        width: 508px;
+        height: 864px;
+        left: 200px;
+        right: 200px;
+        background-image: url(img/01-outfits/12-outfit.png);
+        z-index: 2;
+    }
+
+    .outfit13{
+        position:absolute;
+        width: 508px;
+        height: 864px;
+        left: 200px;
+        right: 200px;
+        background-image: url(img/01-outfits/13-outfit.png);
+        z-index: 2;
+    }
+
+    .outfit14{
+        position:absolute;
+        width: 508px;
+        height: 864px;
+        left: 200px;
+        right: 200px;
+        background-image: url(img/01-outfits/14-outfit.png);
+        z-index: 2;
+    }
+
+    .outfit15{
+        position:absolute;
+        width: 508px;
+        height: 864px;
+        left: 200px;
+        right: 200px;
+        background-image: url(img/01-outfits/15-outfit.png);
+        z-index: 2;
+    }
+
+    .outfit16{
+        position:absolute;
+        width: 508px;
+        height: 864px;
+        left: 200px;
+        right: 200px;
+        background-image: url(img/01-outfits/16-outfit.png);
+        z-index: 2;
+    }
+
+    .outfit17{
+        position:absolute;
+        width: 508px;
+        height: 864px;
+        left: 200px;
+        right: 200px;
+        background-image: url(img/01-outfits/17-outfit.png);
+        z-index: 2;
+    }
+
+    .outfit18{
+        position:absolute;
+        width: 508px;
+        height: 864px;
+        left: 200px;
+        right: 200px;
+        background-image: url(img/01-outfits/18-outfit.png);
+        z-index: 2;
+    }
+
+    .outfit19{
+        position:absolute;
+        width: 508px;
+        height: 864px;
+        left: 200px;
+        right: 200px;
+        background-image: url(img/01-outfits/19-outfit.png);
+        z-index: 2;
+    }
+
+    .outfit20{
+        position:absolute;
+        width: 508px;
+        height: 864px;
+        left: 200px;
+        right: 200px;
+        background-image: url(img/01-outfits/20-outfit.png);
+        z-index: 2;
+    }
+
+    .outfit21{
+        position:absolute;
+        width: 508px;
+        height: 864px;
+        left: 200px;
+        right: 200px;
+        background-image: url(img/01-outfits/21-outfit.png);
+        z-index: 2;
+    }
+
+    .outfit22{
+        position:absolute;
+        width: 508px;
+        height: 864px;
+        left: 200px;
+        right: 200px;
+        background-image: url(img/01-outfits/22-outfit.png);
+        z-index: 2;
+    }
+
+    .outfit23{
+        position:absolute;
+        width: 508px;
+        height: 864px;
+        left: 200px;
+        right: 200px;
+        background-image: url(img/01-outfits/23-outfit.png);
+        z-index: 2;
+    }
+
+    .outfit24{
+        position:absolute;
+        width: 508px;
+        height: 864px;
+        left: 200px;
+        right: 200px;
+        background-image: url(img/01-outfits/24-outfit.png);
+        z-index: 2;
+    }
+
+    .outfit25{
+        position:absolute;
+        width: 508px;
+        height: 864px;
+        left: 200px;
+        right: 200px;
+        background-image: url(img/01-outfits/25-outfit.png);
+        z-index: 2;
+    }
+
+    .outfit26{
+        position:absolute;
+        width: 508px;
+        height: 864px;
+        left: 200px;
+        right: 200px;
+        background-image: url(img/01-outfits/26-outfit.png);
+        z-index: 2;
+    }
+
+    .outfit27{
+        position:absolute;
+        width: 508px;
+        height: 864px;
+        left: 200px;
+        right: 200px;
+        background-image: url(img/01-outfits/27-outfit.png);
+        z-index: 2;
+    }
+
+    .outfit28{
+        position:absolute;
+        width: 508px;
+        height: 864px;
+        left: 200px;
+        right: 200px;
+        background-image: url(img/01-outfits/28-outfit.png);
+        z-index: 2;
+    }
+
+    .outfit29{
+        position:absolute;
+        width: 508px;
+        height: 864px;
+        left: 200px;
+        right: 200px;
+        background-image: url(img/01-outfits/29-outfit.png);
+        z-index: 2;
+    }
+
+    .outfit30{
+        position:absolute;
+        width: 508px;
+        height: 864px;
+        left: 200px;
+        right: 200px;
+        background-image: url(img/01-outfits/30-outfit.png);
+        z-index: 2;
+    }
+
+    .outfit31{
+        position:absolute;
+        width: 508px;
+        height: 864px;
+        left: 200px;
+        right: 200px;
+        background-image: url(img/01-outfits/31-outfit.png);
+        z-index: 2;
+    }
+
+    .outfit32{
+        position:absolute;
+        width: 508px;
+        height: 864px;
+        left: 200px;
+        right: 200px;
+        background-image: url(img/01-outfits/32-outfit.png);
+        z-index: 2;
+    }
+
+    .outfit33{
+        position:absolute;
+        width: 508px;
+        height: 864px;
+        left: 200px;
+        right: 200px;
+        background-image: url(img/01-outfits/33-outfit.png);
+        z-index: 2;
+    }
+
+    .outfit34{
+        position:absolute;
+        width: 508px;
+        height: 864px;
+        left: 200px;
+        right: 200px;
+        background-image: url(img/01-outfits/34-outfit.png);
+        z-index: 2;
+    }
+
+    .outfit35{
+        position:absolute;
+        width: 508px;
+        height: 864px;
+        left: 200px;
+        right: 200px;
+        background-image: url(img/01-outfits/35-outfit.png);
+        z-index: 2;
+    }
+
+    .outfit36{
+        position:absolute;
+        width: 508px;
+        height: 864px;
+        left: 200px;
+        right: 200px;
+        background-image: url(img/01-outfits/36-outfit.png);
+        z-index: 2;
+    }
+
+    .outfit37{
+        position:absolute;
+        width: 508px;
+        height: 864px;
+        left: 200px;
+        right: 200px;
+        background-image: url(img/01-outfits/37-outfit.png);
+        z-index: 2;
+    }
+
+    .outfit38{
+        position:absolute;
+        width: 508px;
+        height: 864px;
+        left: 200px;
+        right: 200px;
+        background-image: url(img/01-outfits/38-outfit.png);
+        z-index: 2;
+    }
+
+    .outfit39{
+        position:absolute;
+        width: 508px;
+        height: 864px;
+        left: 200px;
+        right: 200px;
+        background-image: url(img/01-outfits/39-outfit.png);
+        z-index: 2;
+    }
+
+    .outfit40{
+        position:absolute;
+        width: 508px;
+        height: 864px;
+        left: 200px;
+        right: 200px;
+        background-image: url(img/01-outfits/40-outfit.png);
+        z-index: 2;
+    }
+
+    .outfit41{
+        position:absolute;
+        width: 508px;
+        height: 864px;
+        left: 200px;
+        right: 200px;
+        background-image: url(img/01-outfits/41-outfit.png);
+        z-index: 2;
+    }
+
+    .outfit42{
+        position:absolute;
+        width: 508px;
+        height: 864px;
+        left: 200px;
+        right: 200px;
+        background-image: url(img/01-outfits/42-outfit.png);
+        z-index: 2;
+    }
+
+    .outfit43{
+        position:absolute;
+        width: 508px;
+        height: 864px;
+        left: 200px;
+        right: 200px;
+        background-image: url(img/01-outfits/43-outfit.png);
+        z-index: 2;
+    }
+
+    .outfit44{
+        position:absolute;
+        width: 508px;
+        height: 864px;
+        left: 200px;
+        right: 200px;
+        background-image: url(img/01-outfits/44-outfit.png);
+        z-index: 2;
+    }
+
+    .outfit45{
+        position:absolute;
+        width: 508px;
+        height: 864px;
+        left: 200px;
+        right: 200px;
+        background-image: url(img/01-outfits/45-outfit.png);
+        z-index: 2;
+    }
+
+    .outfit46{
+        position:absolute;
+        width: 508px;
+        height: 864px;
+        left: 200px;
+        right: 200px;
+        background-image: url(img/01-outfits/46-outfit.png);
+        z-index: 2;
+    }
+
+    .outfit47{
+        position:absolute;
+        width: 508px;
+        height: 864px;
+        left: 200px;
+        right: 200px;
+        background-image: url(img/01-outfits/47-outfit.png);
+        z-index: 2;
+    }
+
+    .outfit48{
+        position:absolute;
+        width: 508px;
+        height: 864px;
+        left: 200px;
+        right: 200px;
+        background-image: url(img/01-outfits/48-outfit.png);
+        z-index: 2;
+    }
+
+    .outfit49{
+        position:absolute;
+        width: 508px;
+        height: 864px;
+        left: 200px;
+        right: 200px;
+        background-image: url(img/01-outfits/49-outfit.png);
+        z-index: 2;
+    }
+
+    .outfit50{
+        position:absolute;
+        width: 508px;
+        height: 864px;
+        left: 200px;
+        right: 200px;
+        background-image: url(img/01-outfits/50-outfit.png);
+        z-index: 2;
+    }
+
+    .outfit51{
+        position:absolute;
+        width: 508px;
+        height: 864px;
+        left: 200px;
+        right: 200px;
+        background-image: url(img/01-outfits/51-outfit.png);
+        z-index: 2;
+    }
+
+    .outfit52{
+        position:absolute;
+        width: 508px;
+        height: 864px;
+        left: 200px;
+        right: 200px;
+        background-image: url(img/01-outfits/52-outfit.png);
+        z-index: 2;
+    }
+
+    .outfit53{
+        position:absolute;
+        width: 508px;
+        height: 864px;
+        left: 200px;
+        right: 200px;
+        background-image: url(img/01-outfits/53-outfit.png);
+        z-index: 2;
+    }
+
+    .outfit54{
+        position:absolute;
+        width: 508px;
+        height: 864px;
+        left: 200px;
+        right: 200px;
+        background-image: url(img/01-outfits/54-outfit.png);
+        z-index: 2;
+    }
+
+    .outfit55{
+        position:absolute;
+        width: 508px;
+        height: 864px;
+        left: 200px;
+        right: 200px;
+        background-image: url(img/01-outfits/55-outfit.png);
+        z-index: 2;
+    }
+
+    .outfit56{
+        position:absolute;
+        width: 508px;
+        height: 864px;
+        left: 200px;
+        right: 200px;
+        background-image: url(img/01-outfits/56-outfit.png);
+        z-index: 2;
+    }
+
+    .outfit57{
+        position:absolute;
+        width: 508px;
+        height: 864px;
+        left: 200px;
+        right: 200px;
+        background-image: url(img/01-outfits/57-outfit.png);
+        z-index: 2;
+    }
+
+    .outfit58{
+        position:absolute;
+        width: 508px;
+        height: 864px;
+        left: 200px;
+        right: 200px;
+        background-image: url(img/01-outfits/58-outfit.png);
+        z-index: 2;
+    }
+
+    .outfit59{
+        position:absolute;
+        width: 508px;
+        height: 864px;
+        left: 200px;
+        right: 200px;
+        background-image: url(img/01-outfits/59-outfit.png);
+        z-index: 2;
+    }
+
+    .outfit60{
+        position:absolute;
+        width: 508px;
+        height: 864px;
+        left: 200px;
+        right: 200px;
+        background-image: url(img/01-outfits/60-outfit.png);
+        z-index: 2;
+    }
+
+    .outfit61{
+        position:absolute;
+        width: 508px;
+        height: 864px;
+        left: 200px;
+        right: 200px;
+        background-image: url(img/01-outfits/61-outfit.png);
+        z-index: 2;
+    }
+
+    .outfit62{
+        position:absolute;
+        width: 508px;
+        height: 864px;
+        left: 200px;
+        right: 200px;
+        background-image: url(img/01-outfits/62-outfit.png);
+        z-index: 2;
+    }
+
+    .outfit63{
+        position:absolute;
+        width: 508px;
+        height: 864px;
+        left: 200px;
+        right: 200px;
+        background-image: url(img/01-outfits/63-outfit.png);
+        z-index: 2;
+    }
+
+    .outfit64{
+        position:absolute;
+        width: 508px;
+        height: 864px;
+        left: 200px;
+        right: 200px;
+        background-image: url(img/01-outfits/64-outfit.png);
+        z-index: 2;
+    }
+
+    .outfit65{
+        position:absolute;
+        width: 508px;
+        height: 864px;
+        left: 200px;
+        right: 200px;
+        background-image: url(img/01-outfits/65-outfit.png);
+        z-index: 2;
+    }
+
+    .outfit66{
+        position:absolute;
+        width: 508px;
+        height: 864px;
+        left: 200px;
+        right: 200px;
+        background-image: url(img/01-outfits/66-outfit.png);
+        z-index: 2;
+    }
+
+    .outfit67{
+        position:absolute;
+        width: 508px;
+        height: 864px;
+        left: 200px;
+        right: 200px;
+        background-image: url(img/01-outfits/67-outfit.png);
+        z-index: 2;
+    }
+
+    .outfit68{
+        position:absolute;
+        width: 508px;
+        height: 864px;
+        left: 200px;
+        right: 200px;
+        background-image: url(img/01-outfits/68-outfit.png);
+        z-index: 2;
+    }
+
+    .outfit69{
+        position:absolute;
+        width: 508px;
+        height: 864px;
+        left: 200px;
+        right: 200px;
+        background-image: url(img/01-outfits/69-outfit.png);
+        z-index: 2;
+    }
+
+
+#accessory {
+    position:absolute;
+    width: 508px;
+    height: 864px;
+    left: 200px;
+    right: 200px;
+}
+
+    .accessory1{
+        position:absolute;
+        width: 508px;
+        height: 864px;
+        left: 200px;
+        right: 200px;
+        background-image: url(img/03-accessories/1-acc.png);
+        z-index: 3;
+    }
+
+    .accessory2{
+        position:absolute;
+        width: 508px;
+        height: 864px;
+        left: 200px;
+        right: 200px;
+        background-image: url(img/03-accessories/2-acc.png);
+        z-index: 3;
+    }
+
+    .accessory3{
+        position:absolute;
+        width: 508px;
+        height: 864px;
+        left: 200px;
+        right: 200px;
+        background-image: url(img/03-accessories/3-acc.png);
+        z-index: 3;
+    }
+
+    .accessory4{
+        position:absolute;
+        width: 508px;
+        height: 864px;
+        left: 200px;
+        right: 200px;
+        background-image: url(img/03-accessories/4-acc.png);
+        z-index: 3;
+    }
+
+    .accessory5{
+        position:absolute;
+        width: 508px;
+        height: 864px;
+        left: 200px;
+        right: 200px;
+        background-image: url(img/03-accessories/5-acc.png);
+        z-index: 3;
+    }
+
+    .accessory6{
+        position:absolute;
+        width: 508px;
+        height: 864px;
+        left: 200px;
+        right: 200px;
+        background-image: url(img/03-accessories/6-acc.png);
+        z-index: 3;
+    }
+    .accessory7{
+        position:absolute;
+        width: 508px;
+        height: 864px;
+        left: 200px;
+        right: 200px;
+        background-image: url(img/03-accessories/7-acc.png);
+        z-index: 3;
+    }
+
+    .accessory8{
+        position:absolute;
+        width: 508px;
+        height: 864px;
+        left: 200px;
+        right: 200px;
+        background-image: url(img/03-accessories/8-acc.png);
+        z-index: 3;
+    }
+
+    .accessory9{
+        position:absolute;
+        width: 508px;
+        height: 864px;
+        left: 200px;
+        right: 200px;
+        background-image: url(img/03-accessories/9-acc.png);
+        z-index: 3;
+    }
+
+    .accessory10{
+        position:absolute;
+        width: 508px;
+        height: 864px;
+        left: 200px;
+        right: 200px;
+        background-image: url(img/03-accessories/10-acc.png);
+        z-index: 3;
+    }
+
+    .accessory11{
+        position:absolute;
+        width: 508px;
+        height: 864px;
+        left: 200px;
+        right: 200px;
+        background-image: url(img/03-accessories/11-acc.png);
+        z-index: 3;
+    }
+
+    .accessory12{
+        position:absolute;
+        width: 508px;
+        height: 864px;
+        left: 200px;
+        right: 200px;
+        background-image: url(img/03-accessories/12-acc.png);
+        z-index: 3;
+    }
+    .accessory1{
+        position:absolute;
+        width: 508px;
+        height: 864px;
+        left: 200px;
+        right: 200px;
+        background-image: url(img/03-accessories/133-acc.png);
+        z-index: 3;
+    }
+
+    .accessory14{
+        position:absolute;
+        width: 508px;
+        height: 864px;
+        left: 200px;
+        right: 200px;
+        background-image: url(img/03-accessories/14-acc.png);
+        z-index: 3;
+    }
+
+    .accessory15{
+        position:absolute;
+        width: 508px;
+        height: 864px;
+        left: 200px;
+        right: 200px;
+        background-image: url(img/03-accessories/15-acc.png);
+        z-index: 3;
+    }
+
+    .accessory16{
+        position:absolute;
+        width: 508px;
+        height: 864px;
+        left: 200px;
+        right: 200px;
+        background-image: url(img/03-accessories/16-acc.png);
+        z-index: 3;
+    }
+
+    .accessory17{
+        position:absolute;
+        width: 508px;
+        height: 864px;
+        left: 200px;
+        right: 200px;
+        background-image: url(img/03-accessories/17-acc.png);
+        z-index: 3;
+    }
+
+    .accessory18{
+        position:absolute;
+        width: 508px;
+        height: 864px;
+        left: 200px;
+        right: 200px;
+        background-image: url(img/03-accessories/18-acc.png);
+        z-index: 3;
+    }
+    .accessory19{
+        position:absolute;
+        width: 508px;
+        height: 864px;
+        left: 200px;
+        right: 200px;
+        background-image: url(img/03-accessories/19-acc.png);
+        z-index: 3;
+    }
+
+    .accessory20{
+        position:absolute;
+        width: 508px;
+        height: 864px;
+        left: 200px;
+        right: 200px;
+        background-image: url(img/03-accessories/20-acc.png);
+        z-index: 3;
+    }
+
+    .accessory21{
+        position:absolute;
+        width: 508px;
+        height: 864px;
+        left: 200px;
+        right: 200px;
+        background-image: url(img/03-accessories/21-acc.png);
+        z-index: 3;
+    }
+
+    .accessory22{
+        position:absolute;
+        width: 508px;
+        height: 864px;
+        left: 200px;
+        right: 200px;
+        background-image: url(img/03-accessories/22-acc.png);
+        z-index: 3;
+    }
+
+    #shoe {
+        position:absolute;
+        width: 508px;
+        height: 864px;
+        left: 200px;
+        right: 200px;
+    }
+    
+        .shoes1{
+            position:absolute;
+            width: 508px;
+            height: 864px;
+            left: 200px;
+            right: 200px;
+            background-image: url(img/02-shoes/1-shoe.png);
+            z-index: 4;
+        }
+    
+        .shoes2{
+            position:absolute;
+            width: 508px;
+            height: 864px;
+            left: 200px;
+            right: 200px;
+            background-image: url(img/02-shoes/2-shoe.png);
+            z-index: 4;
+        }
+    
+        .shoes3{
+            position:absolute;
+            width: 508px;
+            height: 864px;
+            left: 200px;
+            right: 200px;
+            background-image: url(img/02-shoes/3-shoe.png);
+            z-index: 4;
+        }
+
+        .shoes4{
+            position:absolute;
+            width: 508px;
+            height: 864px;
+            left: 200px;
+            right: 200px;
+            background-image: url(img/02-shoes/4-shoe.png);
+            z-index: 4;
+        }
+    
+        .shoes5{
+            position:absolute;
+            width: 508px;
+            height: 864px;
+            left: 200px;
+            right: 200px;
+            background-image: url(img/02-shoes/5-shoe.png);
+            z-index: 4;
+        }
+    
+        .shoes6{
+            position:absolute;
+            width: 508px;
+            height: 864px;
+            left: 200px;
+            right: 200px;
+            background-image: url(img/02-shoes/6-shoe.png);
+            z-index: 4;
+        }
+        
+        .shoes7{
+            position:absolute;
+            width: 508px;
+            height: 864px;
+            left: 200px;
+            right: 200px;
+            background-image: url(img/02-shoes/7-shoe.png);
+            z-index: 4;
+        }
+    
+        .shoes8{
+            position:absolute;
+            width: 508px;
+            height: 864px;
+            left: 200px;
+            right: 200px;
+            background-image: url(img/02-shoes/8-shoe.png);
+            z-index: 4;
+        }
+
+        .shoes9{
+            position:absolute;
+            width: 508px;
+            height: 864px;
+            left: 200px;
+            right: 200px;
+            background-image: url(img/02-shoes/9-shoe.png);
+            z-index: 4;
+        }
+    
+        .shoes10{
+            position:absolute;
+            width: 508px;
+            height: 864px;
+            left: 200px;
+            right: 200px;
+            background-image: url(img/02-shoes/10-shoe.png);
+            z-index: 4;
+        }
+    
+        .shoes11{
+            position:absolute;
+            width: 508px;
+            height: 864px;
+            left: 200px;
+            right: 200px;
+            background-image: url(img/02-shoes/11-shoe.png);
+            z-index: 4;
+        }
+
+        
+        
+    #nexthat{
+        position:absolute;
+        left:750px;
+        top:270px;
+        color: #61BFAD;
+        background-color: transparent;
+        border: none;
+        outline: none;
+        font-family: 'Lemonada', cursive;
+        font-weight: 600;
+        font-size: 25px;
+    }
+
+#nexthat:hover{
+    transition: 0.01s;
+    -webkit-transition: 0.010s;
+    -moz-transition: 0.01s;
+    -ms-transition: 0.01s;
+    -o-transition: 0.01s;
+    -webkit-transform: rotate(-20deg);
+    -moz-transform: rotate(-20deg);
+    -o-transform: rotate(-20deg);
+    -ms-transform: rotate(-20deg);
+    transform: rotate(-20deg);
+    outline: none;
+    color: #e54b4b;
+}
+
+#nexthat:active{
+    color: #e54b4b;
+    text-decoration: line-through;
+    outline: none;
+}
+
+#nextoutfit{
+    position:absolute;
+    left:750px;
+    top:450px;
+    color: #61BFAD;
+    background-color: transparent;
+    border: none;
+    outline: none;
+    font-family: 'Lemonada', cursive;
+    font-weight: 600;
+    font-size: 25px;
+}
+
+#nextoutfit:hover {
+    transition: 0.01s;
+    -webkit-transition: 0.010s;
+    -moz-transition: 0.01s;
+    -ms-transition: 0.01s;
+    -o-transition: 0.01s;
+    -webkit-transform: rotate(-20deg);
+    -moz-transform: rotate(-20deg);
+    -o-transform: rotate(-20deg);
+    -ms-transform: rotate(-20deg);
+    transform: rotate(-20deg);
+    outline: none;
+    color: #e54b4b;
+}
+
+#nextoutfit:active{
+    color: #e54b4b;
+    text-decoration: line-through;
+    outline: none;
+}
+
+#nextaccessory{
+    position:absolute;
+    left:750px;
+    top:630px;
+    color: #61BFAD;
+    background-color: transparent;
+    border: none;
+    outline: none;
+    font-family: 'Lemonada', cursive;
+    font-weight: 600;
+    font-size: 25px;
+}
+
+#nextaccessory:hover {
+    transition: 0.01s;
+    -webkit-transition: 0.010s;
+    -moz-transition: 0.01s;
+    -ms-transition: 0.01s;
+    -o-transition: 0.01s;
+    -webkit-transform: rotate(-20deg);
+    -moz-transform: rotate(-20deg);
+    -o-transform: rotate(-20deg);
+    -ms-transform: rotate(-20deg);
+    transform: rotate(-20deg);
+    outline: none;
+    color: #e54b4b;
+}
+
+#nextaccessory:active{
+    color: #e54b4b;
+    text-decoration: line-through;
+    outline: none;
+}
+
+#nextshoe{
+    position:absolute;
+    left:750px;
+    top:810px;
+    color: #61BFAD;
+    background-color: transparent;
+    border: none;
+    outline: none;
+    font-family: 'Lemonada', cursive;
+    font-weight: 600;
+    font-size: 25px;
+}
+
+#nextshoe:hover {
+    transition: 0.01s;
+    -webkit-transition: 0.010s;
+    -moz-transition: 0.01s;
+    -ms-transition: 0.01s;
+    -o-transition: 0.01s;
+    -webkit-transform: rotate(-20deg);
+    -moz-transform: rotate(-20deg);
+    -o-transform: rotate(-20deg);
+    -ms-transform: rotate(-20deg);
+    transform: rotate(-20deg);
+    outline: none;
+    color: #e54b4b;
+}
+
+#nextshoe:active{
+    color: #e54b4b;
+    text-decoration: line-through;
+    outline: none;
+}
